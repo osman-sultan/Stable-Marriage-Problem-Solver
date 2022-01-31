@@ -152,7 +152,7 @@ public class SMPSolver {
 
         // menu selection to display each iteration
         System.out.println("""
-             JAVA STABLE MARRIAGE PROBLEM v3
+             JAVA STABLE MARRIAGE PROBLEM 
                 
              L - Load students and schools from file
              E - Edit students and schools
